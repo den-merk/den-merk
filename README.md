@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @den-merk
 - 🌱 I’m currently learning: python, c++
-- 📫 How to reach me: Telegram - t.me/DenlMerkKanal
+- 📫 How to reach me: Telegram - https://t.me/username/DenMerkTelegram
 - 😄 Pronouns: Danil
   
 
